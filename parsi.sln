@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "parsi", "parsi\parsi.fsproj", "{6CD3F0E4-32D3-4983-B681-F4F7475BC335}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "parsi_tests", "tests\parsi_tests.fsproj", "{59678E39-A77B-42EC-891F-A497959D86FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD3F0E4-32D3-4983-B681-F4F7475BC335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD3F0E4-32D3-4983-B681-F4F7475BC335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD3F0E4-32D3-4983-B681-F4F7475BC335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD3F0E4-32D3-4983-B681-F4F7475BC335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59678E39-A77B-42EC-891F-A497959D86FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59678E39-A77B-42EC-891F-A497959D86FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59678E39-A77B-42EC-891F-A497959D86FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59678E39-A77B-42EC-891F-A497959D86FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
